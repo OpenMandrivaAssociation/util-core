@@ -3,7 +3,7 @@
 
 Name:           util-core
 Version:        1.0.6
-Release:        %mkrel 0.0.2
+Release:        %mkrel 0.0.3
 Epoch:          0
 Summary:        org.freecompany.util.core
 License:        MIT
@@ -15,7 +15,7 @@ Source0:        http://repository.freecompany.org/org/freecompany/util/zips/util
 Source1:        util-core-1.0.6-build.xml
 BuildRequires:  ant
 BuildRequires:  ant-junit
-BuildRequires:  jpackage-utils >= 0:1.6
+BuildRequires:  java-rpmbuild >= 0:1.6
 BuildRequires:  junit
 %if %{gcj_support}
 BuildRequires:  java-gcj-compat-devel
