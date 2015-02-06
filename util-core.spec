@@ -3,7 +3,7 @@
 
 Name:           util-core
 Version:        1.0.6
-Release:        %mkrel 0.0.5
+Release:        0.0.6
 Epoch:          0
 Summary:        org.freecompany.util.core
 License:        MIT
