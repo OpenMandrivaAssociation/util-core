@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        org.freecompany.util.core
 License:        MIT
 Group:          Development/Java
-URL:            http://www.freecompany.org/
+URL:            https://www.freecompany.org/
 # svn export https://svn.freecompany.org/public/util/tags/util-core-1.0.6
 # zip -9r util-core-src-1.0.6.zip util-core-1.0.6
 Source0:        http://repository.freecompany.org/org/freecompany/util/zips/util-core-src-%{version}.zip
